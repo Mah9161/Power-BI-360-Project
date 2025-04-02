@@ -44,3 +44,10 @@ Power-BI-360-Project 🚀 Excited to Share My BI360 Project! 🎯 I’m thrilled
 💡 This project was an incredible learning experience, reinforcing the power of data-driven decision-making. 🚀
 
 📢 If you're passionate about data analytics and Power BI, I highly recommend exploring BI360 for reporting automation!
+
+👉 Check out my interactive dashboard here: 
+👇
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiMGViNzFmZTYtMzBmMS00ZDlkLWJhMWQtNTIzNWQzMWEyMWM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection3137494e8c0b93c50bab)
+
+💡 This project was an incredible learning experience, reinforcing the power of data-driven decision-making. 🚀
+
